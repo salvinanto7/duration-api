@@ -1,0 +1,9 @@
+sklearn
+fastapi
+pandas
+pydantic
+tensorflow
+uvicorn
+pickle
+numpy
+python-multipart
